@@ -50,7 +50,7 @@ Ensure the following relationships:
 • An OrderItem is associated with one Product.
 
 ####Deliverables 
-Created a SQL Script to create the schema. You can refer for sql queries and db design to Task2-SQL folder in the root directory.
+Created a SQL Script to create the schema. You can refer for sql queries and db design to Task2-SQL folder in the root directory.(Shared on email as well).
 
 
 
